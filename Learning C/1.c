@@ -10,5 +10,5 @@ int main()
     printf("/n The two numbers are:%d  ",a);
 
     return 0;
-    // Babu dada
+   
 }
